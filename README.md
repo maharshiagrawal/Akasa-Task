@@ -10,7 +10,7 @@ This project aims to analyze aviation data to derive insights related to flight 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+**## Installation**
 To run this project, you will need Python 3.x installed on your system. Follow these steps to set up the environment:
 
 1. Clone the repository:
@@ -25,7 +25,7 @@ Install the required libraries:
 
     pip install pandas numpy matplotlib seaborn sqlalchemy
 
-Usage
+##**Usage**
 
 To analyze the data, run the following Python scripts:
 
@@ -34,19 +34,21 @@ To analyze the data, run the following Python scripts:
 python akasa_internship_task(VS Code).py
 
 
-Data Cleaning and Analysis
-
+##**Data Cleaning and Analysis
+**
 The project includes a comprehensive data cleaning process to handle missing values, outliers, and formatting issues. Data visualization techniques are employed to identify trends and patterns in the data.
-Results
-Key findings from the analysis will be presented in visual formats, including graphs and charts. This section will highlight important insights regarding flight delays and factors influencing airline performance.
-Recommendations
 
+**Results
+**Key findings from the analysis will be presented in visual formats, including graphs and charts. This section will highlight important insights regarding flight delays and factors influencing airline performance.
+
+##**Recommendations
+**
 Based on the analysis results, this section will provide actionable recommendations to improve airline operations and customer satisfaction.
 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-License
-
+##**License
+**
 This project is licensed under the MIT License - see the LICENSE file for details.
 ### Changes Made:
 - Fixed formatting issues and removed duplicate entries.
