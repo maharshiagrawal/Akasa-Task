@@ -1,24 +1,22 @@
-Aviation Data Analysis Project
-Overview
-
+# Aviation Data Analysis Project
 This project aims to analyze aviation data to derive insights related to flight delays, factors affecting punctuality, and overall performance of airlines. It utilizes Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, and SQLAlchemy for data processing, visualization, and storage.
-Table of Contents
 
-    Installation
-    Usage
-    Data Cleaning and Analysis
-    Results
-    Recommendations
-    Contributing
-    License
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data Cleaning and Analysis](#data-cleaning-and-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Contributing](#contributing)
+- [License](#license)
 
-Installation
-
+## Installation
 To run this project, you will need Python 3.x installed on your system. Follow these steps to set up the environment:
 
-    Clone the repository:
-      git clone https://github.com/maharshiagrawal/Akasa-Task.git
-      cd Akasa-Task
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/maharshiagrawal/Akasa-Task.git
+   cd Akasa-Task
 
 git clone https://github.com/maharshiagrawal/Akasa-Task.git
 cd Akasa-Task
