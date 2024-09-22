@@ -21,26 +21,28 @@ To run this project, you will need Python 3.x installed on your system. Follow t
 2. Install the required libraries:
    pip install pandas numpy matplotlib seaborn sqlalchemy
 
-## USAGE
+## Usage
 
 To analyze the data, run the following Python script:
    python akasa_internship_task(VS Code).py
 
-## DATA CLEANSING AND ANALYSIS
+## Data Cleaning and Analysis
 
 The project includes a comprehensive data cleaning process to handle missing values, outliers, and formatting issues. Data visualization techniques are employed to identify trends and patterns in the data.
-Results
+
+## Results
 
 Key findings from the analysis will be presented in visual formats, including graphs and charts. This section will highlight important insights regarding flight delays and factors influencing airline performance.
 
-## RECOMENDATIONS
+## Recommendations
 
 Based on the analysis results, this section will provide actionable recommendations to improve airline operations and customer satisfaction.
-Contributing
+
+## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
-##LICENSE
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
