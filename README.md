@@ -9,7 +9,6 @@ This project aims to analyze aviation data to derive insights related to flight 
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 To run this project, you will need Python 3.x installed on your system. Follow these steps to set up the environment:
@@ -41,10 +40,6 @@ Based on the analysis results, this section will provide actionable recommendati
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Key Points:
 - Each link in the Table of Contents corresponds to the exact section headings.
